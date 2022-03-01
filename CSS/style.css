@@ -1,0 +1,51 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", sans-serif;
+}
+.top {
+  background-color: aquamarine;
+  position: relative;
+  padding-top: 100px;
+}
+.middle {
+  background-color: #66bfbf;
+}
+.bottom {
+  background-color: aquamarine;
+}
+h1 {
+  color: red;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "sacramento", sans-serif;
+}
+h2 {
+  color: orangered;
+  font-size: 20px;
+  font-family: "montserrat";
+  font-weight: normal;
+}
+h3 {
+  color: blue;
+  font-family: "montserrat";
+}
+.pro {
+  text-decoration: underline;
+}
+.bottom {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.up {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row {
+  margin: 30px auto 50px auto;
+  width: 50%;
+  text-align: center;
+  line-height: 2;
+}
